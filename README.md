@@ -5,7 +5,7 @@ Home: https://CRAN.R-project.org/package=NoiseFiltersR
 
 Package license: GPL-3.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An extensive implementation of state-of-the-art and classical algorithms to preprocess label noise in classification problems.
 
