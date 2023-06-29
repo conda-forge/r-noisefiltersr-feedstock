@@ -1,11 +1,11 @@
-About r-noisefiltersr
-=====================
+About r-noisefiltersr-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-noisefiltersr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=NoiseFiltersR
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-noisefiltersr-feedstock/blob/main/LICENSE.txt)
 
 Summary: An extensive implementation of state-of-the-art and classical algorithms to preprocess label noise in classification problems.
 
